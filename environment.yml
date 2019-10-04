@@ -13,3 +13,4 @@ dependencies:
   - dask
   - joblib
   - scipy
+  - scikit-learn
