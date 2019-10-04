@@ -2,7 +2,6 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - sklearn 
   - numpy
   - psutil
   - toolz
@@ -12,3 +11,6 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - joblib
+  - scipy
+  - sklearn
